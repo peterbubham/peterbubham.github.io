@@ -1,0 +1,62 @@
+body{
+  background-color:#002326;
+}
+
+h4{
+	font-family: 'Nothing You Could Do', cursive;
+}
+
+h1{
+	font-family: 'Merienda', cursive;
+	color:#300b56;
+}
+
+h2{
+	color:white;
+}
+.bridges-pic{
+	max-width: 100%
+}
+.animals-pic{
+	max-width: 100%
+}
+.bridges-title{
+	color:#1e2f47;
+}
+.animal-title{
+	color:#1e2f47;
+}
+.camera{
+	color:#1e2f47;
+}
+.external{
+	color:#1e2f47;
+}
+.title{
+	color:#300b56;
+	font-size: 30px;
+}
+.progress-bar{
+	background-color:pink;
+}
+.landscape-pic{
+	max-width:100%;
+}
+.nav-link{
+	color:white;
+}
+.my-nav{
+	background-color:grey;
+}
+.navbar-brand{
+	color:white;
+}
+.jumbotron{
+	background-image: url('../img/insect.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:white;
+}
+.lead{
+	color:white;
+}
