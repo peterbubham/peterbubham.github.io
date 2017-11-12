@@ -52,10 +52,13 @@ h2{
 	color:white;
 }
 .jumbotron{
+	background:none;
+	color:white;
+}
+.photo-bg{
 	background-image: url('../img/insect.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-	color:white;
 }
 .lead{
 	color:white;
@@ -63,4 +66,13 @@ h2{
 
 .copyright{
 	color:#e0e0d2;
+}
+.series-title{
+	text-align: left
+}
+.specific{
+	text-align: justify;
+}
+.dongni-pic{
+	max-width:75%;
 }
